@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/rolex
+LOCAL_PATH := device/vestel/teos
 
 # Architecture
 TARGET_ARCH := arm64
