@@ -22,4 +22,4 @@ $(call inherit-product, device/xiaomi/rolex/full_rolex.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := omni_rolex
+PRODUCT_NAME := omni_teos
